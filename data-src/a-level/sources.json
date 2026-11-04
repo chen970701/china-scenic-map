@@ -1,0 +1,335 @@
+[
+  {
+    "province": "福建省",
+    "adcode": 350000,
+    "kind": "xlsx",
+    "url": "http://wlt.fujian.gov.cn/zwgk/sjfb/cgcx/AJJQ/202601/P020260105588644254919.xlsx",
+    "page": "http://wlt.fujian.gov.cn/zwgk/sjfb/cgcx/AJJQ/",
+    "title": "福建省A级旅游景区名录（截止2025.12.31）",
+    "note": "表头：序号|景区名称|所在地市|县（市）区|等级|公告时间"
+  },
+  {
+    "province": "山东省",
+    "adcode": 370000,
+    "kind": "xlsx",
+    "url": "http://whhly.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=67f824db4da14fa8a789204057d8443a.xlsx",
+    "page": "http://whhly.shandong.gov.cn/art/2026/1/1/art_100554_10354829.html",
+    "title": "山东省A级旅游景区名录（截至2025年12月31日）",
+    "note": "表头：序号|景区名称|所在地市|所在区县|等级"
+  },
+  {
+    "province": "河北省",
+    "adcode": 130000,
+    "kind": "xlsx",
+    "url": "https://whly.hebei.gov.cn/zwf/ui/contentcore/resource/download?ID=48084",
+    "page": "https://whly.hebei.gov.cn/c/2026-01-30/584097.html",
+    "title": "河北省A级旅游景区名录表（202601）",
+    "note": "表头：序号|景区名称|所在地市（含区县）|等级|运营单位性质"
+  },
+  {
+    "province": "四川省",
+    "adcode": 510000,
+    "kind": "html-table",
+    "url": "https://wlt.sc.gov.cn/scwlt/c100297/introduce.shtml",
+    "page": "https://wlt.sc.gov.cn/scwlt/c100297/introduce.shtml",
+    "title": "四川省A级旅游景区名录（更新时间2026年1月7日）",
+    "note": "页面自带表格：序号|名称|所在市州|所在区县|等级|地址；按 5A/4A 分组"
+  },
+  {
+    "province": "贵州省",
+    "adcode": 520000,
+    "kind": "html-table",
+    "url": "https://whhly.guizhou.gov.cn/ggfw/whlyml/lyjqml/202602/t20260209_89470788.html",
+    "page": "https://whhly.guizhou.gov.cn/ggfw/whlyml/lyjqml/",
+    "title": "贵州省A级旅游景区名录（2026-02-09）",
+    "note": "页面自带表格"
+  },
+  {
+    "province": "湖南省",
+    "adcode": 430000,
+    "kind": "doc-tab",
+    "url": "https://whhlyt.hunan.gov.cn/whhlyt/cyfz/ggxxcx/lyajjqcx/202404/33271070/files/3f8384ec1a6a4cfc999fbaa7ff9a0a53.doc",
+    "page": "https://whhlyt.hunan.gov.cn/whhlyt/cyfz/ggxxcx/lyajjqcx/index.html",
+    "title": "湖南省A级旅游景区名录表（截至2025年1月底）",
+    "note": "doc 正文制表符分隔：序号|景区名称|所在地市|等级，无区县列，只能落到市"
+  },
+  {
+    "province": "上海市",
+    "adcode": 310000,
+    "kind": "html-table",
+    "url": "https://whlyj.sh.gov.cn/4ajjq/20191008/0022-28627.html",
+    "page": "https://whlyj.sh.gov.cn/4ajjq/index.html",
+    "title": "上海市4A级旅游景区名录",
+    "note": "页面表格"
+  },
+  {
+    "province": "上海市",
+    "adcode": 310000,
+    "kind": "html-table",
+    "url": "https://whlyj.sh.gov.cn/5ajjq/20191008/0022-29706.html",
+    "page": "https://whlyj.sh.gov.cn/5ajjq/index.html",
+    "title": "上海市5A级旅游景区名录",
+    "note": "页面表格"
+  },
+  {
+    "province": "上海市",
+    "adcode": 310000,
+    "kind": "html-table",
+    "url": "https://whlyj.sh.gov.cn/3ajjq/20191008/0022-29707.html",
+    "page": "https://whlyj.sh.gov.cn/3ajjq/index.html",
+    "title": "上海市3A级旅游景区名录",
+    "note": "页面表格"
+  },
+  {
+    "province": "浙江省",
+    "adcode": 330000,
+    "kind": "xlsx",
+    "url": "http://ct.zj.gov.cn/api-gateway/jpaas-web-server/front/document/file-download?fileUrl=/cms_files/jcms1/web3214/site/attach/0/a185e69bcc144304b3bf82b9d8b8a839.xlsx",
+    "page": "http://ct.zj.gov.cn/art/2025/1/21/art_1229678763_5447295.html",
+    "title": "浙江省A级旅游景区名录表（截至2024年底）",
+    "note": "表头：景区名称|市|区|景区当前等级；无序号列，区列有『市辖区』需当市本级"
+  },
+  {
+    "province": "宁夏回族自治区",
+    "adcode": 640000,
+    "kind": "html-table",
+    "url": "https://whhlyt.nx.gov.cn/wlgz/202412/t20241212_4756344.html",
+    "page": "https://whhlyt.nx.gov.cn/wlgz/mllb/",
+    "title": "宁夏A级旅游景区名录（2024-12）",
+    "note": "表格：序号|地区|名称|当前等级|负责人|联系电话|评定时间|备注"
+  },
+  {
+    "province": "河南省",
+    "adcode": 410000,
+    "kind": "xlsx",
+    "url": "https://xcoss.henan.gov.cn/typtfile/20260126/4e3502fa3f1a4eb789125de752035fea.xlsx",
+    "page": "http://hct.henan.gov.cn/2026/01-06/3282798.html",
+    "title": "河南省A级旅游景区名录（截至2025年底）",
+    "note": "附件 xlsx"
+  },
+  {
+    "province": "山西省",
+    "adcode": 140000,
+    "kind": "pdf",
+    "url": "https://wlt.shanxi.gov.cn/xwzx/tzgg/202502/P020250210597505427672.pdf",
+    "page": "https://wlt.shanxi.gov.cn/xwzx/tzgg/202502/t20250210_9765861.shtml",
+    "title": "山西省A级旅游景区名录（2025年1月）",
+    "note": "PDF，按「城市：N家」分组行划分地市"
+  },
+  {
+    "province": "内蒙古自治区",
+    "adcode": 150000,
+    "kind": "pdf",
+    "url": "https://wlt.nmg.gov.cn/zfxxgk/zfxxglzl/fdzdgknr/zdlyxx/zyml/202402/P020240226397569270813.pdf",
+    "page": "https://wlt.nmg.gov.cn/zfxxgk/zfxxglzl/fdzdgknr/zdlyxx/zyml/202402/t20240226_2472006.html",
+    "title": "内蒙古自治区A级旅游景区名录表（截至2024年2月26日）",
+    "note": "PDF，表头含所在地市列"
+  },
+  {
+    "province": "云南省",
+    "adcode": 530000,
+    "kind": "pdf",
+    "url": "https://dct.yn.gov.cn/ggfw/wldt/202510/P020251023702702006221.pdf",
+    "page": "https://dct.yn.gov.cn/ggfw/wldt/",
+    "title": "云南省A级旅游景区名录（2025-10）",
+    "note": "PDF，表头含所在地市列"
+  },
+  {
+    "province": "黑龙江省",
+    "adcode": 230000,
+    "kind": "xlsx",
+    "url": "https://wlt.hlj.gov.cn/wlt/c114268/202405/31737191/files/2023年全省A级旅游景区名录.xlsx",
+    "page": "https://wlt.hlj.gov.cn/wlt/c114268/",
+    "title": "黑龙江省A级旅游景区名录（2023）",
+    "note": "xlsx，工作表「地市划分」，表头：序号|景区名称|所在地市|等级|通讯地址"
+  },
+  {
+    "province": "安徽省",
+    "adcode": 340000,
+    "kind": "xlsx",
+    "url": "https://ct.ah.gov.cn/group2/M00/02/D4/wKg8FGQG5KmAUmapAAL6ABUXaBc372.xls",
+    "page": "https://ct.ah.gov.cn/content/article/80786581",
+    "title": "安徽省A级旅游景区名录",
+    "note": "xls，表头：序号|市县|景区名称|等级"
+  },
+  {
+    "province": "新疆维吾尔自治区",
+    "adcode": 650000,
+    "kind": "xlsx",
+    "url": "https://wlt.xinjiang.gov.cn/wlt/5ajjq/202506/d78a224fb4304ac8b5bee3bf565bf43b/files/新疆5A级旅游景区名录（截至2025年6月3日）.xlsx",
+    "page": "https://wlt.xinjiang.gov.cn/wlt/5ajjq/",
+    "title": "新疆5A级旅游景区名录（截至2025年6月3日）",
+    "note": "xlsx，工作表 5A"
+  },
+  {
+    "province": "新疆维吾尔自治区",
+    "adcode": 650000,
+    "kind": "xlsx",
+    "url": "https://wlt.xinjiang.gov.cn/wlt/4ajjq/202309/442ae23977e544c68a07c46919acf9f9/files/4A级旅游景区名录.xlsx",
+    "page": "https://wlt.xinjiang.gov.cn/wlt/4ajjq/",
+    "title": "新疆4A级旅游景区名录（2023-09）",
+    "note": "xlsx，表头：序号|地州|县市|景区名称|等级"
+  },
+  {
+    "province": "新疆维吾尔自治区",
+    "adcode": 650000,
+    "kind": "xlsx",
+    "url": "https://wlt.xinjiang.gov.cn/wlt/3ajjq/202309/ab291d66d99d4822af5a3dfc2b4e8faf/files/3A级旅游景区名录.xlsx",
+    "page": "https://wlt.xinjiang.gov.cn/wlt/3ajjq/",
+    "title": "新疆3A级旅游景区名录（2023-09）",
+    "note": "xlsx，表头：序号|地州|县市|景区名称|等级"
+  },
+  {
+    "province": "辽宁省",
+    "adcode": 210000,
+    "kind": "xlsx",
+    "url": "https://whly.ln.gov.cn/whly/attachDir/2025/01/2025010315472034225.xlsx",
+    "page": "https://whly.ln.gov.cn/whly/",
+    "title": "辽宁省A级旅游景区名录（2025-01）",
+    "note": "xlsx，工作表「总表」，表头：序号|市|景区名称|景区当前等级"
+  },
+  {
+    "province": "湖北省",
+    "adcode": 420000,
+    "kind": "datatable",
+    "url": "http://wlt.hubei.gov.cn/bsfw/bmcxfw/ajlvjqmd/",
+    "page": "http://wlt.hubei.gov.cn/bsfw/bmcxfw/ajlvjqmd/",
+    "title": "湖北省A级旅游景区名单",
+    "note": "DataTables 分页查询，表头：序号|地区|景区名称|质量等级|通讯地址|电话|评定时间|负责人",
+    "maxPages": 20
+  },
+  {
+    "province": "广西壮族自治区",
+    "adcode": 450000,
+    "kind": "datatable",
+    "url": "http://wlt.gxzf.gov.cn/zfxxgk/fdzdgknr/bmcxfw/lyjdjqcx/",
+    "page": "http://wlt.gxzf.gov.cn/zfxxgk/fdzdgknr/bmcxfw/lyjdjqcx/",
+    "title": "广西旅游景点景区查询",
+    "note": "分页查询，表头：序号|所在地区|景区名称|等级|详细地址；景区名带省市县前缀",
+    "maxPages": 90
+  },
+  {
+    "province": "江西省",
+    "adcode": 360000,
+    "kind": "xlsx",
+    "url": "https://dct.jiangxi.gov.cn/jxswhhlyt/col5296/1947578852937216000/7ALHQF6H.xlsx",
+    "page": "https://dct.jiangxi.gov.cn/jxswhhlyt/col/col5296/content/content_1947578852937216000.html",
+    "title": "江西A级旅游景区名录",
+    "note": "xlsx 按等级拆 4 个 sheet，表头：地 区|景区名称"
+  },
+  {
+    "province": "陕西省",
+    "adcode": 610000,
+    "kind": "xlsx",
+    "url": "https://whhlyt.shaanxi.gov.cn/zfxxgk/fdzdgknr/tjxx/202605/P020260527585303028405.xlsx",
+    "page": "https://whhlyt.shaanxi.gov.cn/zfxxgk/fdzdgknr/tjxx/202605/t20260527_3642044.html",
+    "title": "陕西省A级旅游景区信息表（2025）",
+    "note": "xlsx，工作表「景区信息表」，表头：序号|景区名称|地市|等级"
+  },
+  {
+    "province": "甘肃省",
+    "adcode": 620000,
+    "kind": "html-table",
+    "url": "https://wlj.jiuquan.gov.cn/wlj/c106769/202601/8f1cf64227e745ef876db8c1d12ca5c2.shtml",
+    "page": "https://wlj.jiuquan.gov.cn/wlj/c106769/",
+    "title": "甘肃省A级旅游景区名录（截至2025年12月31日）",
+    "note": "酒泉市文旅局转载省厅名录，表格：序号|景区名称|所在市州|等级|景区详细地址"
+  },
+  {
+    "province": "天津市",
+    "adcode": 120000,
+    "kind": "html-table",
+    "url": "https://whly.tj.gov.cn/tjswlzxw/sy1/ykxz/qyml/202312/t20231208_6476542.html",
+    "page": "https://whly.tj.gov.cn/tjswlzxw/sy1/ykxz/qyml/",
+    "title": "天津市A级旅游景区名录（2023-12）",
+    "note": "表格：序号|等级|旅游景区名称|地址|电话|当前等级评定时间，无城市列，区县从地址抠"
+  },
+  {
+    "province": "吉林省",
+    "adcode": 220000,
+    "kind": "html-table",
+    "url": "http://whhlyt.jl.gov.cn/ggfw/lyfw/jng/202405/t20240524_8912725.html",
+    "page": "http://whhlyt.jl.gov.cn/ggfw/lyfw/jng/",
+    "title": "吉林省A级旅游景区名录（截至2025年12月）",
+    "note": "表格：序号|景区名称|所在地|等级"
+  },
+  {
+    "province": "海南省",
+    "adcode": 460000,
+    "kind": "html-table",
+    "url": "https://lwt.hainan.gov.cn/hdjl/ywzsk/jq/202609/t20260907_4141941.html",
+    "page": "https://lwt.hainan.gov.cn/hdjl/ywzsk/jq/",
+    "title": "海南省A级景区名录（2026.9.7更新）",
+    "note": "表格：序号|景区名称|等级|市县|地址"
+  },
+  {
+    "province": "重庆市",
+    "adcode": 500000,
+    "kind": "html-table",
+    "url": "https://whlyw.cq.gov.cn/hdjl_221/xzzq/202601/t20260106_15295212.html",
+    "page": "https://whlyw.cq.gov.cn/hdjl_221/xzzq/",
+    "title": "重庆市A级旅游景区名单（截至2025年12月）",
+    "note": "表格：序号|景区名称|所在区县|质量等级|评定年月"
+  },
+  {
+    "province": "广东省",
+    "adcode": 440000,
+    "kind": "xlsx",
+    "url": "https://www.prdculture.org.cn/ygawlzxw/jingqu/202609/5659f9723e2c4896b9670c81e528f1ea/files/广东省A级旅游景区名录（截至2026年8月31日）.xlsx.xlsx",
+    "page": "https://www.prdculture.org.cn/ygawlzxw/jingqu/202609/5659f9723e2c4896b9670c81e528f1ea.shtml",
+    "title": "广东省A级旅游景区名录（截至2026年8月31日）",
+    "note": "粤港澳文旅资讯网发布（省文旅厅指导），xlsx，表头：序号|景区名称|所在地市|等级|评定年份"
+  },
+  {
+    "province": "江苏省",
+    "adcode": 320000,
+    "kind": "local-rows",
+    "file": "data-src/a-level/rows/jiangsu.json",
+    "url": "https://wlt.jiangsu.gov.cn/col/col91340/index.html",
+    "page": "https://wlt.jiangsu.gov.cn/col/col91340/index.html",
+    "title": "江苏省A级旅游景区名录（旅游名录栏目）",
+    "note": "4 张分等级表，jpage 逐表翻页抓取后落成行数组；表头：城市|景点景区名称|级别"
+  },
+  {
+    "province": "北京市",
+    "adcode": 110000,
+    "kind": "datatable",
+    "url": "https://banshi.whlyj.beijing.gov.cn/xinyong/#/mljq",
+    "page": "https://whlyj.beijing.gov.cn/ggfw/ly/",
+    "title": "北京市等级景区名录",
+    "note": "Element UI 分页，共约197条；表头：序号|景区名称|办公地址|联系电话|邮编|等级",
+    "maxPages": 40
+  },
+  {
+    "province": "西藏自治区",
+    "adcode": 540000,
+    "kind": "html-table",
+    "url": "https://wlt.xizang.gov.cn/zwgk_69/gkml/ggfw/202510/t20251023_505529.html",
+    "page": "https://wlt.xizang.gov.cn/zwgk_69/gkml/ggfw/",
+    "title": "西藏自治区全区A级旅游景区名单（截至2026年8月）",
+    "note": "表头：序号|景区名称|所在地市|等级|备注；只有地市，没有区县"
+  },
+  {
+    "province": "青海省",
+    "adcode": 630000,
+    "kind": "html-grouped",
+    "url": "http://tjj.qinghai.gov.cn/nj/2025/html/1909-0.htm",
+    "pages": [
+      "http://tjj.qinghai.gov.cn/nj/2025/html/1909-0.htm",
+      "http://tjj.qinghai.gov.cn/nj/2025/html/1909-1.htm",
+      "http://tjj.qinghai.gov.cn/nj/2025/html/1909-2.htm",
+      "http://tjj.qinghai.gov.cn/nj/2025/html/1909-3.htm",
+      "http://tjj.qinghai.gov.cn/nj/2025/html/1909-4.htm"
+    ],
+    "page": "http://tjj.qinghai.gov.cn/tjData/qhtjnj/",
+    "title": "青海省A级旅游景区名录（青海统计年鉴2025·19-9）",
+    "note": "省文旅厅站内名录页是 Vue SPA 抓不到，改用省统计局年鉴表；等级靠「5A级景区」分组行切换，拆成续表1-4 共 5 页，带地址列；青海湖景区地址无行政地名，按主景区位置在 overrides 里指定为海南州共和县",
+    "overrides": {
+      "青海湖景区": {
+        "cityName": "海南藏族自治州",
+        "districtName": "共和县",
+        "why": "年鉴地址只写「青海省东北部大通山、日月山、青海南山之间」，无行政地名；青海湖主景区（二郎剑）在共和县境内"
+      }
+    }
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "province": "北京市",
+    "adcode": 110000,
+    "base": "https://whlyj.beijing.gov.cn"
+  },
+  {
+    "province": "天津市",
+    "adcode": 120000,
+    "base": "https://whly.tj.gov.cn"
+  },
+  {
+    "province": "河北省",
+    "adcode": 130000,
+    "base": "https://whly.hebei.gov.cn"
+  },
+  {
+    "province": "山西省",
+    "adcode": 140000,
+    "base": "https://wlt.shanxi.gov.cn"
+  },
+  {
+    "province": "内蒙古自治区",
+    "adcode": 150000,
+    "base": "https://wlt.nmg.gov.cn"
+  },
+  {
+    "province": "辽宁省",
+    "adcode": 210000,
+    "base": "https://whly.ln.gov.cn"
+  },
+  {
+    "province": "吉林省",
+    "adcode": 220000,
+    "base": "http://whhlyt.jl.gov.cn"
+  },
+  {
+    "province": "黑龙江省",
+    "adcode": 230000,
+    "base": "https://wlt.hlj.gov.cn"
+  },
+  {
+    "province": "江苏省",
+    "adcode": 320000,
+    "base": "http://wlt.jiangsu.gov.cn"
+  },
+  {
+    "province": "安徽省",
+    "adcode": 340000,
+    "base": "https://ct.ah.gov.cn"
+  },
+  {
+    "province": "江西省",
+    "adcode": 360000,
+    "base": "https://dct.jiangxi.gov.cn"
+  },
+  {
+    "province": "河南省",
+    "adcode": 410000,
+    "base": "http://hct.henan.gov.cn"
+  },
+  {
+    "province": "湖北省",
+    "adcode": 420000,
+    "base": "https://wlt.hubei.gov.cn"
+  },
+  {
+    "province": "广东省",
+    "adcode": 440000,
+    "base": "http://whly.gd.gov.cn"
+  },
+  {
+    "province": "广西壮族自治区",
+    "adcode": 450000,
+    "base": "http://wlt.gxzf.gov.cn"
+  },
+  {
+    "province": "海南省",
+    "adcode": 460000,
+    "base": "https://lwt.hainan.gov.cn"
+  },
+  {
+    "province": "重庆市",
+    "adcode": 500000,
+    "base": "http://whlyw.cq.gov.cn"
+  },
+  {
+    "province": "云南省",
+    "adcode": 530000,
+    "base": "http://dct.yn.gov.cn"
+  },
+  {
+    "province": "西藏自治区",
+    "adcode": 540000,
+    "base": "http://wlt.xizang.gov.cn"
+  },
+  {
+    "province": "陕西省",
+    "adcode": 610000,
+    "base": "http://whhlyt.shaanxi.gov.cn"
+  },
+  {
+    "province": "甘肃省",
+    "adcode": 620000,
+    "base": "http://wlt.gansu.gov.cn"
+  },
+  {
+    "province": "青海省",
+    "adcode": 630000,
+    "base": "http://whlyt.qinghai.gov.cn"
+  },
+  {
+    "province": "宁夏回族自治区",
+    "adcode": 640000,
+    "base": "https://whhlyt.nx.gov.cn"
+  },
+  {
+    "province": "新疆维吾尔自治区",
+    "adcode": 650000,
+    "base": "https://wlt.xinjiang.gov.cn"
+  }
+]

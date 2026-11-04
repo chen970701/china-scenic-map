@@ -1,0 +1,15 @@
+import { chromium } from 'playwright';
+const url = process.argv[2];
+const out = process.argv[3] ?? 'tmp-shots/drawer-guide.png';
+const browser = await chromium.launch({ executablePath: 'C://Program Files\\Google\\Chrome\\Application\\chrome.exe' });
+const page = await browser.newPage({ viewport: { width: 1440, height: 1000 } });
+await page.goto(url, { waitUntil: 'networkidle' });
+await page.waitForSelector('.drawer', { timeout: 25000 });
+await page.waitForTimeout(1200);
+const box = page.locator('.drawer__body');
+if (await box.count()) await box.evaluate((el) => el.scrollTo(0, 300));
+await page.waitForTimeout(400);
+await page.screenshot({ path: out });
+const txt = await page.locator('.drawer').innerText();
+console.log(txt.slice(0, 900));
+await browser.close();

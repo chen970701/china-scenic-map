@@ -1,0 +1,26 @@
+node_modules/
+dist/
+tmp-shots/
+*.local
+.DS_Store
+.vite/
+*.tsbuildinfo
+tmpdata/
+tmp-*.mjs
+tmp-*.json
+logs/
+map-dist.tar.gz
+.workbuddy/
+
+# ---------------------------------------------------------------
+# 生成产物与抓取原始数据不入库（合计约 70MB）
+# 仓库只放源码与脚本；要跑起来请先生成数据，见 README「二、运行」。
+# ---------------------------------------------------------------
+public/geo/
+public/data/
+data-src/enrich/
+data-src/osm-attractions.json
+# 名录抓取产物（5.9MB+），只留抓取来源清单 sources.json
+data-src/a-level/provincial.json
+data-src/a-level/records.json
+data-src/a-level/located.json

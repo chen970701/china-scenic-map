@@ -1,0 +1,13 @@
+import { chromium } from 'playwright';
+const url = process.argv[2];
+const browser = await chromium.launch({ executablePath: 'C://Program Files\\Google\\Chrome\\Application\\chrome.exe' });
+const page = await browser.newPage({ viewport: { width: 390, height: 844 }, isMobile: true, hasTouch: true, deviceScaleFactor: 2 });
+await page.goto(url, { waitUntil: 'networkidle' });
+await page.waitForSelector('.drawer', { timeout: 25000 });
+await page.waitForTimeout(1200);
+const body = page.locator('.drawer__body');
+if (await body.count()) await body.evaluate((el) => el.scrollTo(0, 500));
+await page.waitForTimeout(400);
+await page.screenshot({ path: 'tmp-shots/drawer-guide-mobile.png' });
+await browser.close();
+console.log('ok');

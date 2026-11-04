@@ -1,0 +1,13 @@
+* text=auto eol=lf
+
+# GitHub 语言统计按前端源码算：tools/ 下的抓取脚本不参与
+*.mjs linguist-detectable=false
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.woff binary
+*.woff2 binary
+*.pdf binary
