@@ -116,6 +116,24 @@ npm run data:region:build                              # 生成 public/data/regi
 > （返回 `403 denied by rate limit`），脚本内置全局熔断与指数退避，但首次运行建议留出 5–10 分钟。
 > 原始文件缓存在 `tmpdata/cn/`，中断后重跑只会补缺失的部分。
 
+### 部署到 GitHub Pages
+
+```bash
+npm run deploy:pages                  # 构建 + 推送 gh-pages
+npm run deploy:pages -- --dry-run     # 只构建，不推送
+npm run deploy:pages -- --skip-build  # 复用现有 dist，只推送
+```
+
+产物推到 `gh-pages` 分支，主分支只保留代码，两边互不影响。首次部署需要在仓库
+Settings → Pages 里把 Source 设为「Deploy from a branch」→ `gh-pages` / `/ (root)`，
+之后每次 `deploy:pages` 会自动更新。
+
+- 子路径跟随仓库名自动计算（`https://<user>.github.io/<repo>/`），代码里的数据与边界路径
+  走 `import.meta.env.BASE_URL`，本地 `npm run dev` 仍然是根路径。
+- 站点约 68MB / 3,600 个文件（其中数据 56MB），在 Pages 的 1GB 额度内。
+- Pages 是纯静态托管，没有服务端；数据有更新时重跑一次 `npm run deploy:pages`。
+- 境内访问 `*.github.io` 可能偏慢或不稳定，属网络环境问题，不是站点故障。
+
 ---
 
 ## 三、技术选型

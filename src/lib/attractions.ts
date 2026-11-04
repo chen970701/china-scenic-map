@@ -7,7 +7,7 @@ import type { Attraction, AttractionSummary } from '../types';
  * /data/attractions/summary.json 只包含各省/各区县的数量，用于地图气泡与省份导航。
  */
 
-const BASE = '/data/attractions';
+const BASE = `${import.meta.env.BASE_URL}data/attractions`;
 
 let summaryPromise: Promise<AttractionSummary> | null = null;
 const provinceCache = new Map<number, Promise<Attraction[]>>();

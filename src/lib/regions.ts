@@ -9,7 +9,7 @@ import type { RegionIndexFile, RegionLevel, RegionNode } from '../types';
 
 export const ROOT_ADCODE = 100000;
 
-const GEO_BASE = '/geo/g';
+const GEO_BASE = `${import.meta.env.BASE_URL}geo/g`;
 
 const LEVEL_BY_CODE: RegionLevel[] = ['country', 'province', 'city', 'district'];
 
@@ -26,7 +26,7 @@ let loadPromise: Promise<void> | null = null;
 
 export function loadRegionIndex(): Promise<void> {
   if (!loadPromise) {
-    loadPromise = fetch('/geo/index.json')
+    loadPromise = fetch(`${import.meta.env.BASE_URL}geo/index.json`)
       .then(async (res) => {
         if (!res.ok) throw new Error(`行政区划索引加载失败（HTTP ${res.status}）`);
         const index = (await res.json()) as RegionIndexFile;

@@ -7,7 +7,7 @@ import type { RegionInfo } from '../types';
  * 没抓到的地区返回 null，界面自动不显示概览卡，不影响景点列表。
  */
 
-const BASE = '/data/regions';
+const BASE = `${import.meta.env.BASE_URL}data/regions`;
 const cache = new Map<number, Promise<RegionInfo | null>>();
 
 export function loadRegionInfo(adcode: number): Promise<RegionInfo | null> {

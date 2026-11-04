@@ -18,7 +18,8 @@
     "data:findlist": "node tools/find-a-nav.mjs",
     "data:region": "node tools/fetch-region-info.mjs",
     "data:region:build": "node tools/build-regions.mjs",
-    "data:intro": "node tools/fetch-region-intro-full.mjs"
+    "data:intro": "node tools/fetch-region-intro-full.mjs",
+    "deploy:pages": "node tools/deploy-pages.mjs"
   },
   "dependencies": {
     "leaflet": "^1.9.4",
